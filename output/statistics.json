@@ -1,0 +1,15 @@
+{
+  "total_records": 100,
+  "base_salary": {
+    "mean": 209507.98,
+    "median": 191171.0,
+    "min": 121405,
+    "max": 469077
+  },
+  "total_comp": {
+    "mean": 369074.65,
+    "median": 335483.0,
+    "min": 173165,
+    "max": 948995
+  }
+}
