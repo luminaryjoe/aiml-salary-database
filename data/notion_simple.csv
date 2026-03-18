@@ -1,0 +1,51 @@
+Company,Title,Location,Level,Base Salary,Total Comp
+OpenAI,Machine Learning Engineer,"San Francisco, CA",L5,250000,350000
+Google,AI Research Scientist,"Mountain View, CA",L6,280000,420000
+Meta,Deep Learning Engineer,"Menlo Park, CA",L5,260000,380000
+Amazon,Machine Learning Engineer,"Seattle, WA",L5,220000,320000
+NVIDIA,AI Research Scientist,"Santa Clara, CA",L6,300000,450000
+Anthropic,Machine Learning Engineer,"San Francisco, CA",L4,200000,280000
+Databricks,AI Engineer,"San Francisco, CA",L5,240000,340000
+Microsoft,Applied Scientist,"Redmond, WA",L5,230000,330000
+Apple,Machine Learning Engineer,"Cupertino, CA",L5,250000,360000
+Tesla,AI Engineer,"Palo Alto, CA",L4,210000,290000
+OpenAI,Research Engineer,"San Francisco, CA",L3,180000,250000
+Google,Software Engineer ML,"New York, NY",L4,190000,270000
+Meta,AI Research Scientist,"New York, NY",L5,240000,350000
+Amazon,Applied Scientist,"Boston, MA",L4,200000,280000
+NVIDIA,Deep Learning Engineer,"Austin, TX",L5,220000,310000
+Anthropic,Research Engineer,"San Francisco, CA",L3,170000,230000
+Databricks,Machine Learning Engineer,"Seattle, WA",L5,230000,330000
+Microsoft,AI Engineer,"New York, NY",L4,210000,300000
+Apple,AI Research Scientist,"San Francisco, CA",L6,280000,400000
+Tesla,Machine Learning Engineer,"Austin, TX",L4,200000,280000
+OpenAI,Machine Learning Engineer,Remote,L5,220000,320000
+Google,AI Research Scientist,Remote,L6,260000,380000
+Meta,Deep Learning Engineer,Remote,L5,240000,340000
+Amazon,Machine Learning Engineer,Remote,L4,190000,270000
+NVIDIA,AI Research Scientist,Remote,L6,270000,390000
+Anthropic,Machine Learning Engineer,Remote,L4,180000,250000
+Databricks,AI Engineer,Remote,L5,230000,330000
+Microsoft,Applied Scientist,Remote,L5,220000,310000
+Apple,Machine Learning Engineer,Remote,L5,240000,350000
+Tesla,AI Engineer,Remote,L4,200000,280000
+OpenAI,Research Engineer,"London, UK",L4,160000,220000
+Google,Software Engineer ML,"Toronto, Canada",L4,150000,210000
+Meta,AI Research Scientist,"London, UK",L5,180000,260000
+Amazon,Applied Scientist,"Berlin, Germany",L4,140000,200000
+NVIDIA,Deep Learning Engineer,"Singapore",L5,170000,240000
+Anthropic,Research Engineer,"London, UK",L3,130000,180000
+Databricks,Machine Learning Engineer,"Toronto, Canada",L5,160000,230000
+Microsoft,AI Engineer,"London, UK",L4,150000,220000
+Apple,AI Research Scientist,"Toronto, Canada",L6,190000,280000
+Tesla,Machine Learning Engineer,"Berlin, Germany",L4,140000,200000
+OpenAI,Machine Learning Engineer,"San Francisco, CA",L6,300000,450000
+Google,AI Research Scientist,"Mountain View, CA",L7,350000,550000
+Meta,Deep Learning Engineer,"Menlo Park, CA",L6,280000,420000
+Amazon,Machine Learning Engineer,"Seattle, WA",L6,270000,400000
+NVIDIA,AI Research Scientist,"Santa Clara, CA",L7,380000,600000
+Anthropic,Machine Learning Engineer,"San Francisco, CA",L5,260000,380000
+Databricks,AI Engineer,"San Francisco, CA",L6,290000,430000
+Microsoft,Applied Scientist,"Redmond, WA",L6,280000,410000
+Apple,Machine Learning Engineer,"Cupertino, CA",L6,300000,450000
+Tesla,AI Engineer,"Palo Alto, CA",L5,250000,360000
